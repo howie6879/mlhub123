@@ -13,6 +13,8 @@
 		* [课程学习](#课程学习)
 		* [开源资源](#开源资源)
 		* [开源书籍](#开源书籍)
+	* [文档](#文档)
+		* [名库文档](#名库文档)
 
 <!-- /code_chunk_output -->
 
@@ -82,8 +84,9 @@
 ### 开源资源
 
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达老师的机器学习课程个人笔记
-- [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books): （吴恩达老师的深度学习课程笔记及资源）
+- [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books): 吴恩达老师的深度学习课程笔记及资源
 - [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
+- [周志华 - 机器学习](https://github.com/Vay-keen/Machine-learning-learning-notes): 周志华《机器学习》笔记
 - [ml_tutorials](https://github.com/MorvanZhou/tutorials): 机器学习相关教程
 - [Machine Learning、Deep Learning](https://github.com/ty4z2008/Qix/blob/master/dl.md): ML&DL资料
 - [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python): 机器学习算法python实现
@@ -91,5 +94,27 @@
 ### 开源书籍
 
 - [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese): 深度学习中文版
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html): 深度学习开源书籍
+- [Neural Networks and Deep Learning](https://github.com/zhanggyb/nndl): 深度学习开源书籍 - 中文
 - [hands_on_Ml_with_Sklearn_and_TF](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF): Sklearn与TensorFlow机器学习实用指南
 - [机器学习实战](https://github.com/apachecn/MachineLearning): Machine Learning in Action（机器学习实战）
+
+## 文档
+
+### 名库文档
+
+- [TensorFlow](https://www.tensorflow.org/tutorials/): TF官方文档
+- [PyTorch](https://pytorch.org/tutorials/): PyTorch官方文档
+- [Caffe](http://caffe.berkeleyvision.org/): 一个基于表达式，速度和模块化原则创建的深度学习框架
+- [Keras](https://keras.io/): Keras官方文档
+- [Neon](http://neon.nervanasys.com/index.html/): Nervana公司一个基于Python的深度学习库
+- [Chainer](https://docs.chainer.org/en/stable/): 基于Python的独立的深度学习模型开源框架
+- [scikit-learn](http://scikit-learn.org/stable/documentation.html): scikit-learn官方文档
+- [PyBrain](http://pybrain.org/docs/): 一个模块化的Python机器学习库
+- [Statsmodels](http://www.statsmodels.org/stable/index.html): 用来探索数据，估计统计模型，进行统计测试
+- [Theano](http://deeplearning.net/software/theano/): 允许高效地定义、优化以及评估涉及多维数组的数学表达式
+- [Pylearn2](http://deeplearning.net/software/pylearn2/): 构建于Theano之上的机器学习库
+- [Gensim](https://radimrehurek.com/gensim/index.html): 包含可扩展的统计语义，分析纯文本文档的语义结构，以及检索相似语义的文档等功能
+- [NumPy](http://www.numpy.org/): NumPy官方文档
+- [pandas](http://pandas.pydata.org/pandas-docs/stable/): pandas官方文档
+- [Matplotlib](https://matplotlib.org/tutorials/index.html): Matplotlib官方文档
