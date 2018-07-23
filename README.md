@@ -28,9 +28,10 @@
 - [Google News](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREZvZVdoZkVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen): Google News Machine learning
 - [MIT News](http://news.mit.edu/topic/machine-learning?from=www.mlhub123.com): Machine learning | MIT News
 - [机器之心](https://www.jiqizhixin.com?from=www.mlhub123.com): 机器之心 | 全球人工智能信息服务
+- [雷锋网](https://www.leiphone.com/?from=www.mlhub123.com): 雷锋网 | 读懂智能，未来
 - [知乎主题](https://www.zhihu.com/topic/19559450/hot?from=www.mlhub123.com): 知乎机器学习热门主题
-- [17bigdata](http://www.17bigdata.com?from=www.mlhub123.com): 专注数据分析、挖掘、大数据相关领域的技术分享、交流
 - [数据分析网](https://www.afenxi.com?from=www.mlhub123.com): 数据分析网 - 大数据学习交流第一平台
+- [17bigdata](http://www.17bigdata.com?from=www.mlhub123.com): 专注数据分析、挖掘、大数据相关领域的技术分享、交流
 
 ### 社区交流
 
@@ -49,6 +50,8 @@
 - [Stats and Bots - Medium](https://blog.statsbot.co/?from=www.mlhub123.com): 机器学习应用程序和代码的实用指南
 - [tornadomeet的博客](https://www.cnblogs.com/tornadomeet/archive/2012/06/24/2560261.html?from=www.mlhub123.com): 很详细的ML&DL学习博客
 - [爱可可-爱生活](https://weibo.com/fly51fly?topnav=1&wvr=6&topsug=1): 知名互联网资讯博主
+- [超智能体](https://zhuanlan.zhihu.com/YJango): 分享最通俗易懂的深度学习教程
+- [人工智能笔记](https://zhuanlan.zhihu.com/ainote): 人工智能从入门到AI统治世界
 
 ### 论文检索
 
@@ -73,11 +76,13 @@
 
 ### 课程学习
 
+- [机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/): Google制作的节奏紧凑、内容实用的机器学习简介课程
 - [吴恩达](http://study.163.com/course/introduction/1004570029.htm): 机器学习课程
 - [吴恩达](https://mooc.study.163.com/smartSpec/detail/1001319001.htm): 深度学习课程
 - [林轩田](https://www.bilibili.com/video/av12463015/): 机器学习基石
 - [林轩田](https://www.bilibili.com/video/av12469267): 机器学习技法
 - [liuyubobobo](https://coding.imooc.com/class/169.html): Python3 入门机器学习
+- [fast.ai](http://www.fast.ai/): Making neural nets uncool again
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): YouTube | 数学基础频道
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg): YouTube | 最简短的语言概况最新的热点论文
 
