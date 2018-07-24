@@ -79,12 +79,13 @@
 - [机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/): Google制作的节奏紧凑、内容实用的机器学习简介课程
 - [吴恩达](http://study.163.com/course/introduction/1004570029.htm): 机器学习课程
 - [吴恩达](https://mooc.study.163.com/smartSpec/detail/1001319001.htm): 深度学习课程
-- [林轩田](https://www.bilibili.com/video/av12463015/): 机器学习基石
+- [林轩田](https://www.bilibili.com/video/av4294020/): 机器学习基石
 - [林轩田](https://www.bilibili.com/video/av12469267): 机器学习技法
 - [liuyubobobo](https://coding.imooc.com/class/169.html): Python3 入门机器学习
 - [fast.ai](http://www.fast.ai/): Making neural nets uncool again
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): YouTube | 数学基础频道
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg): YouTube | 最简短的语言概况最新的热点论文
+- [Metacademy](https://metacademy.org/): 知识点检索并画出通向这个知识点的知识图谱
 
 ### 开源资源
 
