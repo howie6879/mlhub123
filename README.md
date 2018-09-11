@@ -104,6 +104,7 @@
 - [Neural Networks and Deep Learning](https://github.com/zhanggyb/nndl): 深度学习开源书籍 - 中文
 - [hands_on_Ml_with_Sklearn_and_TF](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF): Sklearn与TensorFlow机器学习实用指南
 - [机器学习实战](https://github.com/apachecn/MachineLearning): Machine Learning in Action（机器学习实战）
+- [简单粗暴TensorFlow](https://github.com/snowkylin/TensorFlow-cn): 本手册是一篇精简的TensorFlow入门指导
 
 ## 文档
 
@@ -124,3 +125,4 @@
 - [NumPy](http://www.numpy.org/): NumPy官方文档
 - [pandas](http://pandas.pydata.org/pandas-docs/stable/): pandas官方文档
 - [Matplotlib](https://matplotlib.org/tutorials/index.html): Matplotlib官方文档
+- [Seaborn](https://seaborn.pydata.org/): Seaborn官方文档
