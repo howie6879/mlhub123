@@ -19,7 +19,9 @@
 <!-- /code_chunk_output -->
 
 # mlhub123
-机器学习网站导航以及资源，欢迎PR，访问网站：[https://www.mlhub123.com/](https://www.mlhub123.com/)
+机器学习网站导航以及资源，欢迎PR提供资源：
+ - 网站：[https://www.mlhub123.com/](https://www.mlhub123.com/)
+ - Telegram群组：[欢迎加入](https://t.me/joinchat/F6XKShFSdCUHuo5Rvoj4Jg)，资源多多~
 
 ## 导航
 
