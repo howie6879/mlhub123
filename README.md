@@ -21,6 +21,7 @@
 # mlhub123
 机器学习网站导航以及资源，欢迎PR提供资源：
  - 网站：[https://www.mlhub123.com/](https://www.mlhub123.com/)
+ - 微信群：请查看网站底部右侧
  - Telegram群组：[欢迎加入](https://t.me/joinchat/F6XKShFSdCUHuo5Rvoj4Jg)，资源多多~
 
 ## 导航
@@ -51,7 +52,7 @@
 
 ### 优质博文
 
-- [handong](https://handong1587.github.io/): 深度学习各个方向资源汇总，及各大顶级会议/期刊资源
+- [handong1587](https://handong1587.github.io/): 深度学习各个方向资源汇总，及各大顶级会议/期刊资源
 - [Machine Learning Mastery](https://machinelearningmastery.com/blog?from=www.mlhub123.com): 帮助开发人员使用机器学习的知识解决复杂的问题
 - [Stats and Bots - Medium](https://blog.statsbot.co/?from=www.mlhub123.com): 机器学习应用程序和代码的实用指南
 - [tornadomeet的博客](https://www.cnblogs.com/tornadomeet/archive/2012/06/24/2560261.html?from=www.mlhub123.com): 很详细的ML&DL学习博客
@@ -87,12 +88,12 @@
 - [liuyubobobo](https://coding.imooc.com/class/169.html): Python3 入门机器学习
 - [Metacademy](https://metacademy.org/): 知识点检索并画出通向这个知识点的知识图谱
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg): YouTube | 最简短的语言概况最新的热点论文
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): YouTube | 数学基础频道
 - [机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/): Google制作的节奏紧凑、内容实用的机器学习简介课程
 - [林轩田](https://www.bilibili.com/video/av4294020/): 机器学习基石
 - [林轩田](https://www.bilibili.com/video/av12469267): 机器学习技法
 - [吴恩达](http://study.163.com/course/introduction/1004570029.htm): 机器学习课程
 - [吴恩达](https://mooc.study.163.com/smartSpec/detail/1001319001.htm): 深度学习课程
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): YouTube | 数学基础频道
 
 ### 开源资源
 
@@ -122,7 +123,7 @@
 - [Caffe2](https://caffe2.ai/docs/getting-started.html?platform=windows&configuration=compile): Caffe2官方文档
 - [Chainer](https://docs.chainer.org/en/stable/): 基于Python的独立的深度学习模型开源框架
 - [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/): CNTK官方文档
-- [DeepLearning4j](https://deeplearning4j.org/): 基于JAVA和Scalar的商业级开源分布式深度学习框架
+- [DeepLearning4j](https://deeplearning4j.org/): 基于JAVA和Scala的商业级开源分布式深度学习框架
 - [Gensim](https://radimrehurek.com/gensim/index.html): 包含可扩展的统计语义，分析纯文本文档的语义结构，以及检索相似语义的文档等功能
 - [Keras](https://keras.io/): Keras官方文档
 - [Matplotlib](https://matplotlib.org/tutorials/index.html): Matplotlib官方文档
