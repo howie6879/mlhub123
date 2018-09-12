@@ -3,18 +3,18 @@
 <!-- code_chunk_output -->
 
 * [mlhub123](#mlhub123)
-	* [导航](#导航)
-		* [新闻资讯](#新闻资讯)
-		* [社区交流](#社区交流)
-		* [优质博文](#优质博文)
-		* [论文检索](#论文检索)
-		* [比赛实践](#比赛实践)
-	* [资源](#资源)
-		* [课程学习](#课程学习)
-		* [开源资源](#开源资源)
-		* [开源书籍](#开源书籍)
-	* [文档](#文档)
-		* [名库文档](#名库文档)
+  * [导航](#导航)
+    * [新闻资讯](#新闻资讯)
+    * [社区交流](#社区交流)
+    * [优质博文](#优质博文)
+    * [论文检索](#论文检索)
+    * [比赛实践](#比赛实践)
+  * [资源](#资源)
+    * [课程学习](#课程学习)
+    * [开源资源](#开源资源)
+    * [开源书籍](#开源书籍)
+  * [文档](#文档)
+    * [名库文档](#名库文档)
 
 <!-- /code_chunk_output -->
 
@@ -34,6 +34,7 @@
 - [知乎主题](https://www.zhihu.com/topic/19559450/hot?from=www.mlhub123.com): 知乎机器学习热门主题
 - [数据分析网](https://www.afenxi.com?from=www.mlhub123.com): 数据分析网 - 大数据学习交流第一平台
 - [17bigdata](http://www.17bigdata.com?from=www.mlhub123.com): 专注数据分析、挖掘、大数据相关领域的技术分享、交流
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/): 为数据科学专业人员提供基于社区的知识门户
 
 ### 社区交流
 
@@ -45,6 +46,8 @@
 - [极智能](http://www.ziiai.com/?from=www.mlhub123.com): 人工智能技术社区
 - [ShortScience](http://www.shortscience.org?from=www.mlhub123.com): 用最简单的篇幅去概况科学著作
 - [MathOverflow](https://mathoverflow.net?from=www.mlhub123.com): 数学知识问答社区
+- [Medium](https://medium.com/): 一个涵盖人工智能、机器学习和深度学习相关领域的自由、开放平台
+- [Twitter](https://twitter.com/StatMLPapers): Twitter | 机器学习论文版块
 
 ### 优质博文
 
@@ -54,6 +57,7 @@
 - [爱可可-爱生活](https://weibo.com/fly51fly?topnav=1&wvr=6&topsug=1): 知名互联网资讯博主
 - [超智能体](https://zhuanlan.zhihu.com/YJango): 分享最通俗易懂的深度学习教程
 - [人工智能笔记](https://zhuanlan.zhihu.com/ainote): 人工智能从入门到AI统治世界
+- [handong](https://handong1587.github.io/): 深度学习各个方向资源汇总，及各大顶级会议/期刊资源
 
 ### 论文检索
 
@@ -115,7 +119,12 @@
 - [TensorFlow](https://www.tensorflow.org/tutorials/): TF官方文档
 - [PyTorch](https://pytorch.org/tutorials/): PyTorch官方文档
 - [Caffe](http://caffe.berkeleyvision.org/): 一个基于表达式，速度和模块化原则创建的深度学习框架
+- [Caffe2](https://caffe2.ai/docs/getting-started.html?platform=windows&configuration=compile): Caffe2官方文档
 - [Keras](https://keras.io/): Keras官方文档
+- [MXNet](http://mxnet.incubator.apache.org/tutorials/index.html): MXNet官方文档
+- [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/): CNTK官方文档
+- [Theano](http://deeplearning.net/software/theano/): Theano官方文档
+- [DeepLearning4j](https://deeplearning4j.org/): 基于JAVA和Scalar的商业级开源分布式深度学习框架
 - [Neon](http://neon.nervanasys.com/index.html/): Nervana公司一个基于Python的深度学习库
 - [Chainer](https://docs.chainer.org/en/stable/): 基于Python的独立的深度学习模型开源框架
 - [scikit-learn](http://scikit-learn.org/stable/documentation.html): scikit-learn官方文档
