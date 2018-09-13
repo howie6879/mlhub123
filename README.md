@@ -29,6 +29,7 @@
 ### 新闻资讯
 
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/): 为数据科学专业人员提供基于社区的知识门户
+- [Distill](https://distill.pub/): 展示机器学习的最新文章
 - [Google News](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREZvZVdoZkVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen): Google News Machine learning
 - [MIT News](http://news.mit.edu/topic/machine-learning?from=www.mlhub123.com): Machine learning | MIT News
 - [17bigdata](http://www.17bigdata.com?from=www.mlhub123.com): 专注数据分析、挖掘、大数据相关领域的技术分享、交流
@@ -52,6 +53,7 @@
 
 ### 优质博文
 
+- [Google AI Blog](https://ai.googleblog.com/): 谷歌AI博客
 - [handong1587](https://handong1587.github.io/): 深度学习各个方向资源汇总，及各大顶级会议/期刊资源
 - [Machine Learning Mastery](https://machinelearningmastery.com/blog?from=www.mlhub123.com): 帮助开发人员使用机器学习的知识解决复杂的问题
 - [Stats and Bots - Medium](https://blog.statsbot.co/?from=www.mlhub123.com): 机器学习应用程序和代码的实用指南
@@ -89,6 +91,7 @@
 - [Metacademy](https://metacademy.org/): 知识点检索并画出通向这个知识点的知识图谱
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg): YouTube | 最简短的语言概况最新的热点论文
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): YouTube | 数学基础频道
+- [3Blue1Brown 中文](http://space.bilibili.com/88461692/#/): Bilibili | 数学基础频道
 - [机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/): Google制作的节奏紧凑、内容实用的机器学习简介课程
 - [林轩田](https://www.bilibili.com/video/av4294020/): 机器学习基石
 - [林轩田](https://www.bilibili.com/video/av12469267): 机器学习技法
@@ -101,6 +104,7 @@
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达老师的机器学习课程个人笔记
 - [daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision): 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
 - [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books): 吴恩达老师的深度学习课程笔记及资源
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/): 一份指南，教你如何构建具有可解释性的黑盒模型
 - [Machine Learning、Deep Learning](https://github.com/ty4z2008/Qix/blob/master/dl.md): ML&DL资料
 - [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python): 机器学习算法python实现
 - [ml_tutorials](https://github.com/MorvanZhou/tutorials): 机器学习相关教程
