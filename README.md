@@ -104,7 +104,6 @@
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达老师的机器学习课程个人笔记
 - [daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision): 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
 - [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books): 吴恩达老师的深度学习课程笔记及资源
-- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/): 一份指南，教你如何构建具有可解释性的黑盒模型
 - [Machine Learning、Deep Learning](https://github.com/ty4z2008/Qix/blob/master/dl.md): ML&DL资料
 - [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python): 机器学习算法python实现
 - [ml_tutorials](https://github.com/MorvanZhou/tutorials): 机器学习相关教程
@@ -114,6 +113,7 @@
 
 - [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese): 深度学习中文版
 - [hands_on_Ml_with_Sklearn_and_TF](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF): Sklearn与TensorFlow机器学习实用指南
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/): 一份指南，教你如何构建具有可解释性的黑盒模型
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html): 深度学习开源书籍
 - [Neural Networks and Deep Learning](https://github.com/zhanggyb/nndl): 深度学习开源书籍 - 中文
 - [机器学习实战](https://github.com/apachecn/MachineLearning): Machine Learning in Action（机器学习实战）
