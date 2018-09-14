@@ -121,13 +121,12 @@
 
 ## 文档
 
-### 名库文档
+### Python
 
 - [Caffe](http://caffe.berkeleyvision.org/): 一个基于表达式，速度和模块化原则创建的深度学习框架
 - [Caffe2](https://caffe2.ai/docs/getting-started.html?platform=windows&configuration=compile): Caffe2官方文档
 - [Chainer](https://docs.chainer.org/en/stable/): 基于Python的独立的深度学习模型开源框架
 - [CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/): CNTK官方文档
-- [DeepLearning4j](https://deeplearning4j.org/): 基于JAVA和Scala的商业级开源分布式深度学习框架
 - [Gensim](https://radimrehurek.com/gensim/index.html): 包含可扩展的统计语义，分析纯文本文档的语义结构，以及检索相似语义的文档等功能
 - [Keras](https://keras.io/): Keras官方文档
 - [Matplotlib](https://matplotlib.org/tutorials/index.html): Matplotlib官方文档
@@ -143,3 +142,10 @@
 - [Statsmodels](http://www.statsmodels.org/stable/index.html): 用来探索数据，估计统计模型，进行统计测试
 - [TensorFlow](https://www.tensorflow.org/tutorials/): TF官方文档
 - [Theano](http://deeplearning.net/software/theano/): 允许高效地定义、优化以及评估涉及多维数组的数学表达式
+
+### C & C++
+- [dlib](http://dlib.net): 实用的机器学习和数据分析工具包
+
+### Java & Scala
+
+- [DeepLearning4j](https://deeplearning4j.org/): 基于JAVA和Scala的商业级开源分布式深度学习框架
