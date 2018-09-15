@@ -73,6 +73,7 @@
 
 ### 比赛实践
 
+- [biendata](https://biendata.com/)：数据科学竞赛平台
 - [DataCastle](http://www.pkbigdata.com/?from=www.mlhub123.com): 中国领先的数据科学竞赛平台
 - [DataFountain](http://www.datafountain.cn/#/?from=www.mlhub123.com): DF,CCF指定专业大数据竞赛平台
 - [Kaggle](https://www.kaggle.com/?from=www.mlhub123.com): 为数据科学家提供举办机器学习竞赛
