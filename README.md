@@ -98,6 +98,7 @@
 - [林轩田](https://www.bilibili.com/video/av12469267): 机器学习技法
 - [吴恩达](http://study.163.com/course/introduction/1004570029.htm): 机器学习课程
 - [吴恩达](https://mooc.study.163.com/smartSpec/detail/1001319001.htm): 深度学习课程
+- [邱锡鹏（复旦大学）](https://github.com/nndl/nndl.github.io)：神经网络与深度学习
 
 ### 开源资源
 
