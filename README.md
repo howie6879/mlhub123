@@ -11,8 +11,9 @@
 		* [比赛实践](#比赛实践)
 	* [资源](#资源)
 		* [课程学习](#课程学习)
-		* [开源资源](#开源资源)
+		* [资源收集](#资源收集)
 		* [开源书籍](#开源书籍)
+		* [实战项目](#实战项目)
 	* [文档](#文档)
 		* [Python](#python)
 		* [C & C++](#c-c)
@@ -89,7 +90,7 @@
 
 ### 课程学习
 
-- [David Silver](https://v.youku.com/v_show/id_XMjcwMDQyOTcxMg==.html?spm=a2h0j.11185381.listitem_page1.5!4~A&&f=49376145)：深度强化学习课程
+- [David Silver](https://v.youku.com/v_show/id_XMjcwMDQyOTcxMg==.html?spm=a2h0j.11185381.listitem_page1.5!4~A&&f=49376145)：David Silver 深度强化学习课程
 - [fast.ai](http://www.fast.ai/): Making neural nets uncool again
 - [liuyubobobo](https://coding.imooc.com/class/169.html): Python3 入门机器学习
 - [Metacademy](https://metacademy.org/): 知识点检索并画出通向这个知识点的知识图谱
@@ -103,7 +104,7 @@
 - [吴恩达](http://study.163.com/course/introduction/1004570029.htm): 机器学习课程
 - [吴恩达](https://mooc.study.163.com/smartSpec/detail/1001319001.htm): 深度学习课程
 
-### 开源资源
+### 资源收集
 
 - [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达老师的机器学习课程个人笔记
@@ -124,6 +125,11 @@
 - [Neural Networks and Deep Learning](https://github.com/zhanggyb/nndl): 深度学习开源书籍 - 中文
 - [机器学习实战](https://github.com/apachecn/MachineLearning): Machine Learning in Action（机器学习实战）
 - [简单粗暴TensorFlow](https://github.com/snowkylin/TensorFlow-cn): 本手册是一篇精简的TensorFlow入门指导
+
+### 实战项目
+
+- [face_recognition](https://github.com/ageitgey/face_recognition): 世界上最简单的人脸识别库
+- [style2paints](https://github.com/lllyasviel/style2paints): 线稿自动上色
 
 ## 文档
 
