@@ -89,6 +89,7 @@
 
 ### 课程学习
 
+- [David Silver](https://v.youku.com/v_show/id_XMjcwMDQyOTcxMg==.html?spm=a2h0j.11185381.listitem_page1.5!4~A&&f=49376145)：深度强化学习课程
 - [fast.ai](http://www.fast.ai/): Making neural nets uncool again
 - [liuyubobobo](https://coding.imooc.com/class/169.html): Python3 入门机器学习
 - [Metacademy](https://metacademy.org/): 知识点检索并画出通向这个知识点的知识图谱
