@@ -125,7 +125,7 @@
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/): 一份指南，教你如何构建具有可解释性的黑盒模型
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html): 深度学习开源书籍
 - [Neural Networks and Deep Learning](https://github.com/zhanggyb/nndl): 深度学习开源书籍 - 中文
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)：Python数据科学手册
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook): Python数据科学手册
 - [机器学习实战](https://github.com/apachecn/MachineLearning): Machine Learning in Action（机器学习实战）
 - [简单粗暴TensorFlow](https://github.com/snowkylin/TensorFlow-cn): 本手册是一篇精简的TensorFlow入门指导
 
