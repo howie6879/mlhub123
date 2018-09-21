@@ -111,8 +111,10 @@
 - [daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision): 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
 - [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books): 吴恩达老师的深度学习课程笔记及资源
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap): 深度学习论文阅读路线图
+- [Getting Started in Computer Vision Research](https://sites.google.com/site/mostafasibrahim/research/articles/how-to-start)：计算机视觉研究入门全指南
 - [Machine Learning、Deep Learning](https://github.com/ty4z2008/Qix/blob/master/dl.md): ML&DL资料
 - [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python): 机器学习算法python实现
+- [ml_cheatsheet](https://github.com/remicnrd/ml_cheatsheet)：机器学习算法速查手册
 - [ml_tutorials](https://github.com/MorvanZhou/tutorials): 机器学习相关教程
 - [周志华 - 机器学习](https://github.com/Vay-keen/Machine-learning-learning-notes): 周志华《机器学习》笔记
 
