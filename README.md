@@ -82,6 +82,7 @@
 - [Kaggle](https://www.kaggle.com/?from=www.mlhub123.com): 为数据科学家提供举办机器学习竞赛
 - [KDD-CUP](http://www.kdd.org/kdd-cup?from=www.mlhub123.com): 国际知识发现和数据挖掘竞赛
 - [滴滴新锐](http://research.xiaojukeji.com/trainee.html?from=www.mlhub123.com): 滴滴面向全球高校博士、硕士、优秀本科生的精英人才计划
+- [JDD空间站](https://jdder.jd.com/): 京东算法赛事平台
 - [赛氪网](http://www.saikr.com/?from=www.mlhub123.com): 汇集以高校竞赛为主，活动、社区为辅的大学生竞赛活动平台
 - [天池大数据](https://tianchi.aliyun.com/?from=www.mlhub123.com): 大数据竞赛、大数据解决方案、数据科学家社区、人工智能、机器学习
 
@@ -90,6 +91,7 @@
 
 ### 课程学习
 
+- [data-science-complete-tutorial](https://github.com/zekelabs/data-science-complete-tutorial): 数据科学完整入门指南
 - [David Silver](https://v.youku.com/v_show/id_XMjcwMDQyOTcxMg==.html?spm=a2h0j.11185381.listitem_page1.5!4~A&&f=49376145)：David Silver 深度强化学习课程
 - [fast.ai](http://www.fast.ai/): Making neural nets uncool again
 - [liuyubobobo](https://coding.imooc.com/class/169.html): Python3 入门机器学习
@@ -112,6 +114,7 @@
 - [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books): 吴恩达老师的深度学习课程笔记及资源
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap): 深度学习论文阅读路线图
 - [Getting Started in Computer Vision Research](https://sites.google.com/site/mostafasibrahim/research/articles/how-to-start)：计算机视觉研究入门全指南
+- [lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm): 《统计学习方法》算法python实现
 - [Machine Learning、Deep Learning](https://github.com/ty4z2008/Qix/blob/master/dl.md): ML&DL资料
 - [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python): 机器学习算法python实现
 - [ml_cheatsheet](https://github.com/remicnrd/ml_cheatsheet)：机器学习算法速查手册
@@ -121,11 +124,13 @@
 ### 开源书籍
 
 - [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese): 深度学习中文版
+- [deep_learning_cookbook](https://github.com/DOsinga/deep_learning_cookbook): 深度学习手册
 - [hands_on_Ml_with_Sklearn_and_TF](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF): Sklearn与TensorFlow机器学习实用指南
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/): 一份指南，教你如何构建具有可解释性的黑盒模型
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html): 深度学习开源书籍
 - [Neural Networks and Deep Learning](https://github.com/zhanggyb/nndl): 深度学习开源书籍 - 中文
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook): Python数据科学手册
+- [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course): 简单易学的TensorFlow教程
 - [机器学习实战](https://github.com/apachecn/MachineLearning): Machine Learning in Action（机器学习实战）
 - [简单粗暴TensorFlow](https://github.com/snowkylin/TensorFlow-cn): 本手册是一篇精简的TensorFlow入门指导
 
