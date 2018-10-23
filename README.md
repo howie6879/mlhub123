@@ -24,7 +24,7 @@
 # mlhub123
 机器学习网站导航以及资源，欢迎PR提供资源：
  - 网站：[https://www.mlhub123.com/](https://www.mlhub123.com/)
- - 进微信群交流：备注mlhub进群 - ![mlhub](https://ws1.sinaimg.cn/large/007i3XCUgy1fwgr8qhjz7j306506faag.jpg)
+ - 进微信群交流：备注mlhub进群 - [点击查看二维码](https://ws1.sinaimg.cn/large/007i3XCUgy1fwgr8qhjz7j306506faag.jpg)
  - Telegram群组：[欢迎加入](https://t.me/joinchat/F6XKShFSdCUHuo5Rvoj4Jg)，资源多多~
 
 ## 导航
