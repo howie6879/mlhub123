@@ -24,7 +24,7 @@
 # mlhub123
 机器学习网站导航以及资源，欢迎PR提供资源：
  - 网站：[https://www.mlhub123.com/](https://www.mlhub123.com/)
- - 进微信群交流：备注mlhub进群 - [点击查看二维码](https://ws1.sinaimg.cn/large/007i3XCUgy1fwgr8qhjz7j306506faag.jpg)
+ - 进微信群交流：备注mlhub进群 - ![mlhub](https://ws1.sinaimg.cn/large/007i3XCUgy1fwgr8qhjz7j306506faag.jpg)
  - Telegram群组：[欢迎加入](https://t.me/joinchat/F6XKShFSdCUHuo5Rvoj4Jg)，资源多多~
 
 ## 导航
@@ -51,6 +51,7 @@
 - [Quora](https://www.quora.com/pinned/Machine-Learning?from=www.mlhub123.com): Quora | 机器学习主题
 - [Reddit](https://www.reddit.com/r/MachineLearning/?from=www.mlhub123.com): Reddit | 机器学习板块
 - [ShortScience](http://www.shortscience.org?from=www.mlhub123.com): 用最简单的篇幅去概况科学著作
+- [SofaSofa](http://sofasofa.io/index.php?from=www.mlhub123.com): 做最好的数据科学社区
 - [Twitter](https://twitter.com/StatMLPapers): Twitter | 机器学习论文版块
 - [极智能](http://www.ziiai.com/?from=www.mlhub123.com): 人工智能技术社区
 
