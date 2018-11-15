@@ -24,7 +24,7 @@
 # mlhub123
 机器学习网站导航以及资源，欢迎PR提供资源：
  - 网站：[https://www.mlhub123.com/](https://www.mlhub123.com/)
- - 进微信群交流：备注mlhub进群 - ![mlhub](https://ws1.sinaimg.cn/large/007i3XCUgy1fwgr8qhjz7j306506faag.jpg)
+ - 进微信群交流：备注mlhub进群 - [mlhub](https://ws1.sinaimg.cn/large/007i3XCUgy1fwgr8qhjz7j306506faag.jpg)
  - Telegram群组：[欢迎加入](https://t.me/joinchat/F6XKShFSdCUHuo5Rvoj4Jg)，资源多多~
 
 ## 导航
@@ -120,6 +120,7 @@
 - [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python): 机器学习算法python实现
 - [ml_cheatsheet](https://github.com/remicnrd/ml_cheatsheet)：机器学习算法速查手册
 - [ml_tutorials](https://github.com/MorvanZhou/tutorials): 机器学习相关教程
+- [NLP-progress](https://github.com/sebastianruder/NLP-progress)：跟踪NLP各项技术的state-of-the-art进展
 - [周志华 - 机器学习](https://github.com/Vay-keen/Machine-learning-learning-notes): 周志华《机器学习》笔记
 
 ### 开源书籍
