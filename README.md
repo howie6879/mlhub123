@@ -60,6 +60,7 @@
 - [Google AI Blog](https://ai.googleblog.com/): 谷歌AI博客
 - [handong1587](https://handong1587.github.io/): 深度学习各个方向资源汇总，及各大顶级会议/期刊资源
 - [Machine Learning Mastery](https://machinelearningmastery.com/blog?from=www.mlhub123.com): 帮助开发人员使用机器学习的知识解决复杂的问题
+- [paralleldots](https://blog.paralleldots.com/)：一个提供随时可用的一流AI解决方案的博客
 - [Stats and Bots - Medium](https://blog.statsbot.co/?from=www.mlhub123.com): 机器学习应用程序和代码的实用指南
 - [tornadomeet的博客](https://www.cnblogs.com/tornadomeet/archive/2012/06/24/2560261.html?from=www.mlhub123.com): 很详细的ML&DL学习博客
 - [爱可可-爱生活](https://weibo.com/fly51fly?topnav=1&wvr=6&topsug=1): 知名互联网资讯博主
