@@ -112,8 +112,8 @@
 
 ### 资源收集
 
-- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)：100 Days of Machine Learning Coding as proposed by Siraj Raval
-- [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)：100-Days-Of-ML-Code中文版
+- [100-Days-Of-ML-Code 英文版](https://github.com/Avik-Jain/100-Days-Of-ML-Code)：100 Days of Machine Learning Coding as proposed by Siraj Raval
+- [100-Days-Of-ML-Code 中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)：100-Days-Of-ML-Code 中文版
 - [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达老师的机器学习课程个人笔记
 - [daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision): 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
