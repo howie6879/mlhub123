@@ -63,6 +63,7 @@
 - [paralleldots](https://blog.paralleldots.com/)：一个提供随时可用的一流AI解决方案的博客
 - [Stats and Bots - Medium](https://blog.statsbot.co/?from=www.mlhub123.com): 机器学习应用程序和代码的实用指南
 - [tornadomeet的博客](https://www.cnblogs.com/tornadomeet/archive/2012/06/24/2560261.html?from=www.mlhub123.com): 很详细的ML&DL学习博客
+- [wildml](http://www.wildml.com/)：Artificial Intelligence, Deep Learning, and NLP
 - [爱可可-爱生活](https://weibo.com/fly51fly?topnav=1&wvr=6&topsug=1): 知名互联网资讯博主
 - [超智能体](https://zhuanlan.zhihu.com/YJango): 分享最通俗易懂的深度学习教程
 - [人工智能笔记](https://zhuanlan.zhihu.com/ainote): 人工智能从入门到AI统治世界
