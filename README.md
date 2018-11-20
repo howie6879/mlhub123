@@ -98,6 +98,7 @@
 - [David Silver](https://v.youku.com/v_show/id_XMjcwMDQyOTcxMg==.html?spm=a2h0j.11185381.listitem_page1.5!4~A&&f=49376145)：David Silver 深度强化学习课程
 - [fast.ai](http://www.fast.ai/): Making neural nets uncool again
 - [liuyubobobo](https://coding.imooc.com/class/169.html): Python3 入门机器学习
+- [Siraj Raval：时序预测](https://www.kaggle.com/learn/time-series-with-siraj)：Kaggle免费课程：时序预测
 - [Metacademy](https://metacademy.org/): 知识点检索并画出通向这个知识点的知识图谱
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg): YouTube | 最简短的语言概况最新的热点论文
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): YouTube | 数学基础频道
@@ -111,9 +112,12 @@
 
 ### 资源收集
 
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)：100 Days of Machine Learning Coding as proposed by Siraj Raval
+- [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)：100-Days-Of-ML-Code中文版
 - [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达老师的机器学习课程个人笔记
 - [daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision): 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
+- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)：深度学习500问
 - [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books): 吴恩达老师的深度学习课程笔记及资源
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap): 深度学习论文阅读路线图
 - [funNLP](https://github.com/fighting41love/funNLP)：中文语料库资源收集项目
