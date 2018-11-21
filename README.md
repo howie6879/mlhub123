@@ -98,22 +98,23 @@
 - [David Silver](https://v.youku.com/v_show/id_XMjcwMDQyOTcxMg==.html?spm=a2h0j.11185381.listitem_page1.5!4~A&&f=49376145)：David Silver 深度强化学习课程
 - [fast.ai](http://www.fast.ai/): Making neural nets uncool again
 - [liuyubobobo](https://coding.imooc.com/class/169.html): Python3 入门机器学习
-- [Siraj Raval：时序预测](https://www.kaggle.com/learn/time-series-with-siraj)：Kaggle免费课程：时序预测
 - [Metacademy](https://metacademy.org/): 知识点检索并画出通向这个知识点的知识图谱
+- [Siraj Raval：时序预测](https://www.kaggle.com/learn/time-series-with-siraj)：Kaggle免费课程：时序预测
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg): YouTube | 最简短的语言概况最新的热点论文
+- [YSDA nlp_course](https://github.com/yandexdataschool/nlp_course)：YSDA course in Natural Language Processing
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): YouTube | 数学基础频道
 - [3Blue1Brown 中文](http://space.bilibili.com/88461692/#/): Bilibili | 数学基础频道
-- [机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/): Google制作的节奏紧凑、内容实用的机器学习简介课程
+- [谷歌：机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/): Google制作的节奏紧凑、内容实用的机器学习简介课程
+- [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)：李宏毅深度学习课程
 - [林轩田](https://www.bilibili.com/video/av4294020/): 机器学习基石
 - [林轩田](https://www.bilibili.com/video/av12469267): 机器学习技法
+- [徐亦达](https://github.com/roboticcam/machine-learning-notes)：徐亦达老师机器学习课程
 - [邱锡鹏（复旦大学）](https://github.com/nndl/nndl.github.io)：神经网络与深度学习
 - [吴恩达](http://study.163.com/course/introduction/1004570029.htm): 机器学习课程
 - [吴恩达](https://mooc.study.163.com/smartSpec/detail/1001319001.htm): 深度学习课程
 
 ### 资源收集
 
-- [100-Days-Of-ML-Code 英文版](https://github.com/Avik-Jain/100-Days-Of-ML-Code)：100 Days of Machine Learning Coding as proposed by Siraj Raval
-- [100-Days-Of-ML-Code 中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)：100-Days-Of-ML-Code 中文版
 - [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达老师的机器学习课程个人笔记
 - [daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision): 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
@@ -125,9 +126,12 @@
 - [lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm): 《统计学习方法》算法python实现
 - [Machine Learning、Deep Learning](https://github.com/ty4z2008/Qix/blob/master/dl.md): ML&DL资料
 - [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python): 机器学习算法python实现
+- [Machine_Learning_Study_Path](https://github.com/linxid/Machine_Learning_Study_Path)：机器学习过程中所看的书，视频和源码
 - [ml_cheatsheet](https://github.com/remicnrd/ml_cheatsheet)：机器学习算法速查手册
 - [ml_tutorials](https://github.com/MorvanZhou/tutorials): 机器学习相关教程
 - [NLP-progress](https://github.com/sebastianruder/NLP-progress)：跟踪NLP各项技术的state-of-the-art进展
+- [100-Days-Of-ML-Code 英文版](https://github.com/Avik-Jain/100-Days-Of-ML-Code)：100 Days of Machine Learning Coding as proposed by Siraj Raval
+- [100-Days-Of-ML-Code 中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)：100-Days-Of-ML-Code 中文版
 - [周志华 - 机器学习](https://github.com/Vay-keen/Machine-learning-learning-notes): 周志华《机器学习》笔记
 
 ### 开源书籍
