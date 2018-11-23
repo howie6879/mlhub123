@@ -34,6 +34,7 @@
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/): 为数据科学专业人员提供基于社区的知识门户
 - [Distill](https://distill.pub/): 展示机器学习的最新文章
 - [Google News](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREZvZVdoZkVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen): Google News Machine learning
+- [kdnuggets](https://www.kdnuggets.com/?from=www.mlhub123.com): Machine Learning, Data Science, Big Data, Analytics, AI
 - [MIT News](http://news.mit.edu/topic/machine-learning?from=www.mlhub123.com): Machine learning | MIT News
 - [17bigdata](http://www.17bigdata.com?from=www.mlhub123.com): 专注数据分析、挖掘、大数据相关领域的技术分享、交流
 - [机器之心](https://www.jiqizhixin.com?from=www.mlhub123.com): 机器之心 | 全球人工智能信息服务
@@ -70,7 +71,7 @@
 
 ### 论文检索
 
-- [arXiv](https://arxiv.org/?from=www.mlhub123.com): 康奈尔大学运营的学术预印本发布的平台
+- [arXiv](https://arxiv.org): 康奈尔大学运营的学术预印本发布的平台
 - [Arxiv Sanity](http://www.arxiv-sanity.com/?from=www.mlhub123.com): 论文查询推荐
 - [GitXiv](http://www.gitxiv.com/?from=www.mlhub123.com): arXiv的成果开源实现平台
 - [Papers with Code](https://paperswithcode.com/?from=www.mlhub123.com): 将论文与开源代码实现结合
