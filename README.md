@@ -7,7 +7,7 @@
 		* [新闻资讯](#新闻资讯)
 		* [社区交流](#社区交流)
 		* [优质博文](#优质博文)
-		* [论文检索](#论文检索)
+		* [资源检索](#资源检索)
 		* [比赛实践](#比赛实践)
 	* [资源](#资源)
 		* [课程学习](#课程学习)
@@ -41,6 +41,7 @@
 - [雷锋网](https://www.leiphone.com/?from=www.mlhub123.com): 雷锋网 | 读懂智能，未来
 - [数据分析网](https://www.afenxi.com?from=www.mlhub123.com): 数据分析网 - 大数据学习交流第一平台
 - [知乎主题](https://www.zhihu.com/topic/19559450/hot?from=www.mlhub123.com): 知乎机器学习热门主题
+- [专知](http://www.zhuanzhi.ai)：AI知识分发服务平台
 
 ### 社区交流
 
@@ -69,11 +70,12 @@
 - [超智能体](https://zhuanlan.zhihu.com/YJango): 分享最通俗易懂的深度学习教程
 - [人工智能笔记](https://zhuanlan.zhihu.com/ainote): 人工智能从入门到AI统治世界
 
-### 论文检索
+### 资源检索
 
 - [arXiv](https://arxiv.org): 康奈尔大学运营的学术预印本发布的平台
 - [Arxiv Sanity](http://www.arxiv-sanity.com/?from=www.mlhub123.com): 论文查询推荐
 - [GitXiv](http://www.gitxiv.com/?from=www.mlhub123.com): arXiv的成果开源实现平台
+- [modeldepot](https://modeldepot.io/search)：文献模型源代码搜索下载
 - [Papers with Code](https://paperswithcode.com/?from=www.mlhub123.com): 将论文与开源代码实现结合
 - [SCI-HUB](https://sci-hub.tw/): 找论文必备
 - [猫咪论文](https://lunwen.im/?from=www.mlhub123.com): 简单自由的论文下载平台
@@ -117,6 +119,7 @@
 ### 资源收集
 
 - [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
+- [各领域公开数据集下载](https://github.com/awesomedata/awesome-public-datasets)
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达老师的机器学习课程个人笔记
 - [daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision): 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)：深度学习500问
