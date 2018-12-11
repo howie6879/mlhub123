@@ -75,7 +75,7 @@
 - [arXiv](https://arxiv.org): 康奈尔大学运营的学术预印本发布的平台
 - [Arxiv Sanity](http://www.arxiv-sanity.com/?from=www.mlhub123.com): 论文查询推荐
 - [GitXiv](http://www.gitxiv.com/?from=www.mlhub123.com): arXiv的成果开源实现平台
-- [modeldepot](https://modeldepot.io/search)：文献模型源代码搜索下载
+- [ModelDepot](https://modeldepot.io/search)：文献模型源代码搜索下载
 - [Papers with Code](https://paperswithcode.com/?from=www.mlhub123.com): 将论文与开源代码实现结合
 - [SCI-HUB](https://sci-hub.tw/): 找论文必备
 - [猫咪论文](https://lunwen.im/?from=www.mlhub123.com): 简单自由的论文下载平台
@@ -107,6 +107,7 @@
 - [YSDA nlp_course](https://github.com/yandexdataschool/nlp_course)：YSDA course in Natural Language Processing
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): YouTube | 数学基础频道
 - [3Blue1Brown 中文](http://space.bilibili.com/88461692/#/): Bilibili | 数学基础频道
+- [动手学深度学习](https://zh.diveintodeeplearning.org/)：面向中文读者的能运行、可讨论的深度学习教科书
 - [谷歌：机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/): Google制作的节奏紧凑、内容实用的机器学习简介课程
 - [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)：李宏毅深度学习课程
 - [林轩田](https://www.bilibili.com/video/av4294020/): 机器学习基石
