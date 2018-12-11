@@ -119,7 +119,7 @@
 ### 资源收集
 
 - [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
-- [各领域公开数据集下载](https://github.com/awesomedata/awesome-public-datasets)
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): 各领域公开数据集下载
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达老师的机器学习课程个人笔记
 - [daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision): 记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)：深度学习500问
