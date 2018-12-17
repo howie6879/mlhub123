@@ -75,6 +75,7 @@
 - [arXiv](https://arxiv.org): 康奈尔大学运营的学术预印本发布的平台
 - [Arxiv Sanity](http://www.arxiv-sanity.com/?from=www.mlhub123.com): 论文查询推荐
 - [GitXiv](http://www.gitxiv.com/?from=www.mlhub123.com): arXiv的成果开源实现平台
+- [iData](https://www.cn-ki.net/): iData-知识检索
 - [ModelDepot](https://modeldepot.io/search)：文献模型源代码搜索下载
 - [Papers with Code](https://paperswithcode.com/?from=www.mlhub123.com): 将论文与开源代码实现结合
 - [SCI-HUB](https://sci-hub.tw/): 找论文必备
