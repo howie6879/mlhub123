@@ -101,6 +101,7 @@
 - [data-science-complete-tutorial](https://github.com/zekelabs/data-science-complete-tutorial): 数据科学完整入门指南
 - [David Silver](https://v.youku.com/v_show/id_XMjcwMDQyOTcxMg==.html?spm=a2h0j.11185381.listitem_page1.5!4~A&&f=49376145)：David Silver 深度强化学习课程
 - [fast.ai](http://www.fast.ai/): Making neural nets uncool again
+- [hanbt](https://www.zybuluo.com/hanbingtao/note/433855): 零基础入门深度学习，深入浅出，很不错的入门教程
 - [liuyubobobo](https://coding.imooc.com/class/169.html): Python3 入门机器学习
 - [Metacademy](https://metacademy.org/): 知识点检索并画出通向这个知识点的知识图谱
 - [Siraj Raval：时序预测](https://www.kaggle.com/learn/time-series-with-siraj)：Kaggle免费课程：时序预测
