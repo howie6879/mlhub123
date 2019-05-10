@@ -156,7 +156,7 @@
 - [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course): 简单易学的TensorFlow教程
 - [机器学习实战](https://github.com/apachecn/MachineLearning): Machine Learning in Action（机器学习实战）
 - [简单粗暴TensorFlow](https://github.com/snowkylin/TensorFlow-cn): 本手册是一篇精简的TensorFlow入门指导
-- [神经网络与深度学习](https://github.com/nndl/nndl.github.io)：https://github.com/nndl/nndl.github.io
+- [神经网络与深度学习](https://github.com/nndl/nndl.github.io)：《神经网络与深度学习》 Neural Network and Deep Learning
 
 ### 实战项目
 
