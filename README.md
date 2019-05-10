@@ -106,6 +106,7 @@
 - [liuyubobobo](https://coding.imooc.com/class/169.html): Python3 入门机器学习
 - [Metacademy](https://metacademy.org/): 知识点检索并画出通向这个知识点的知识图谱
 - [Siraj Raval：时序预测](https://www.kaggle.com/learn/time-series-with-siraj)：Kaggle免费课程：时序预测
+- [tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)：ensorflow2中文教程，持续更新(当前版本:tensorflow2.0)
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg): YouTube | 最简短的语言概况最新的热点论文
 - [YSDA nlp_course](https://github.com/yandexdataschool/nlp_course)：YSDA course in Natural Language Processing
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): YouTube | 数学基础频道
@@ -122,6 +123,7 @@
 
 ### 资源收集
 
+- [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)：2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 - [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): 各领域公开数据集下载
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达老师的机器学习课程个人笔记
@@ -154,6 +156,7 @@
 - [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course): 简单易学的TensorFlow教程
 - [机器学习实战](https://github.com/apachecn/MachineLearning): Machine Learning in Action（机器学习实战）
 - [简单粗暴TensorFlow](https://github.com/snowkylin/TensorFlow-cn): 本手册是一篇精简的TensorFlow入门指导
+- [神经网络与深度学习](https://github.com/nndl/nndl.github.io)：https://github.com/nndl/nndl.github.io
 
 ### 实战项目
 
