@@ -2,22 +2,23 @@
 
 <!-- code_chunk_output -->
 
-* [mlhub123](#mlhub123)
-	* [导航](#导航)
-		* [新闻资讯](#新闻资讯)
-		* [社区交流](#社区交流)
-		* [优质博文](#优质博文)
-		* [资源检索](#资源检索)
-		* [比赛实践](#比赛实践)
-	* [资源](#资源)
-		* [课程学习](#课程学习)
-		* [资源收集](#资源收集)
-		* [开源书籍](#开源书籍)
-		* [实战项目](#实战项目)
-	* [文档](#文档)
-		* [Python](#python)
-		* [C & C++](#c-c)
-		* [Java & Scala](#java-scala)
+- [mlhub123](#mlhub123)
+  - [导航](#导航)
+    - [新闻资讯](#新闻资讯)
+    - [社区交流](#社区交流)
+    - [优质博文](#优质博文)
+    - [资源检索](#资源检索)
+    - [比赛实践](#比赛实践)
+  - [资源](#资源)
+    - [课程学习](#课程学习)
+    - [资源收集](#资源收集)
+    - [开源书籍](#开源书籍)
+    - [实战项目](#实战项目)
+    - [方法论](#方法论)
+  - [文档](#文档)
+    - [Python](#python)
+    - [C & C++](#c-c)
+    - [Java & Scala](#java-scala)
 
 <!-- /code_chunk_output -->
 
@@ -36,7 +37,6 @@
 - [Google News](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREZvZVdoZkVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen): Google News Machine learning
 - [kdnuggets](https://www.kdnuggets.com/?from=www.mlhub123.com): Machine Learning, Data Science, Big Data, Analytics, AI
 - [MIT News](http://news.mit.edu/topic/machine-learning?from=www.mlhub123.com): Machine learning | MIT News
-- [Towards Data Science](https://towardsdatascience.com/)：Sharing concepts, ideas, and codes
 - [17bigdata](http://www.17bigdata.com?from=www.mlhub123.com): 专注数据分析、挖掘、大数据相关领域的技术分享、交流
 - [机器之心](https://www.jiqizhixin.com?from=www.mlhub123.com): 机器之心 | 全球人工智能信息服务
 - [雷锋网](https://www.leiphone.com/?from=www.mlhub123.com): 雷锋网 | 读懂智能，未来
@@ -100,30 +100,29 @@
 ### 课程学习
 
 - [data-science-complete-tutorial](https://github.com/zekelabs/data-science-complete-tutorial): 数据科学完整入门指南
-- [David Silver](https://v.youku.com/v_show/id_XMjcwMDQyOTcxMg==.html?spm=a2h0j.11185381.listitem_page1.5!4~A&&f=49376145)：David Silver 深度强化学习课程
+- [David Silver](https://v.youku.com/v_show/id_XMjcwMDQyOTcxMg==.html?spm=a2h0j.11185381.listitem_page1.5!4~A&&f=49376145): David Silver 深度强化学习课程
 - [fast.ai](http://www.fast.ai/): Making neural nets uncool again
 - [hanbt](https://www.zybuluo.com/hanbingtao/note/433855): 零基础入门深度学习，深入浅出，很不错的入门教程
 - [liuyubobobo](https://coding.imooc.com/class/169.html): Python3 入门机器学习
 - [Metacademy](https://metacademy.org/): 知识点检索并画出通向这个知识点的知识图谱
-- [Siraj Raval：时序预测](https://www.kaggle.com/learn/time-series-with-siraj)：Kaggle免费课程：时序预测
-- [tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)：ensorflow2中文教程，持续更新(当前版本:tensorflow2.0)
+- [Siraj Raval：时序预测](https://www.kaggle.com/learn/time-series-with-siraj): Kaggle免费课程：时序预测
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg): YouTube | 最简短的语言概况最新的热点论文
-- [YSDA nlp_course](https://github.com/yandexdataschool/nlp_course)：YSDA course in Natural Language Processing
+- [YSDA nlp_course](https://github.com/yandexdataschool/nlp_course): YSDA course in Natural Language Processing
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw): YouTube | 数学基础频道
 - [3Blue1Brown 中文](http://space.bilibili.com/88461692/#/): Bilibili | 数学基础频道
-- [动手学深度学习](https://zh.diveintodeeplearning.org/)：面向中文读者的能运行、可讨论的深度学习教科书
+- [动手学深度学习](https://zh.diveintodeeplearning.org/): 面向中文读者的能运行、可讨论的深度学习教科书
 - [谷歌：机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/): Google制作的节奏紧凑、内容实用的机器学习简介课程
-- [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)：李宏毅深度学习课程
+- [李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html): 李宏毅深度学习课程
 - [林轩田](https://www.bilibili.com/video/av4294020/): 机器学习基石
 - [林轩田](https://www.bilibili.com/video/av12469267): 机器学习技法
-- [徐亦达](https://github.com/roboticcam/machine-learning-notes)：徐亦达老师机器学习课程
-- [邱锡鹏（复旦大学）](https://github.com/nndl/nndl.github.io)：神经网络与深度学习
+- [徐亦达](https://github.com/roboticcam/machine-learning-notes): 徐亦达老师机器学习课程
+- [邱锡鹏（复旦大学）](https://github.com/nndl/nndl.github.io): 神经网络与深度学习
 - [吴恩达](http://study.163.com/course/introduction/1004570029.htm): 机器学习课程
 - [吴恩达](https://mooc.study.163.com/smartSpec/detail/1001319001.htm): 深度学习课程
+- [MLEveryday](https://github.com/MLEveryday): machine learning everyday
 
 ### 资源收集
 
-- [Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)：2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 - [awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn): 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): 各领域公开数据集下载
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes): 吴恩达老师的机器学习课程个人笔记
@@ -156,12 +155,15 @@
 - [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course): 简单易学的TensorFlow教程
 - [机器学习实战](https://github.com/apachecn/MachineLearning): Machine Learning in Action（机器学习实战）
 - [简单粗暴TensorFlow](https://github.com/snowkylin/TensorFlow-cn): 本手册是一篇精简的TensorFlow入门指导
-- [神经网络与深度学习](https://github.com/nndl/nndl.github.io)：《神经网络与深度学习》 Neural Network and Deep Learning
 
 ### 实战项目
 
 - [face_recognition](https://github.com/ageitgey/face_recognition): 世界上最简单的人脸识别库
 - [style2paints](https://github.com/lllyasviel/style2paints): 线稿自动上色
+
+### 方法论
+
+- [face_recognition](https://space.bilibili.com/344849038/dynamic): 学习观
 
 ## 文档
 
@@ -186,6 +188,7 @@
 - [Statsmodels](http://www.statsmodels.org/stable/index.html): 用来探索数据，估计统计模型，进行统计测试
 - [TensorFlow](https://www.tensorflow.org/tutorials/): TF官方文档
 - [Theano](http://deeplearning.net/software/theano/): 允许高效地定义、优化以及评估涉及多维数组的数学表达式
+- [openai](https://spinningup.openai.com/en/latest/): 强化学习
 
 ### C & C++
 - [dlib](http://dlib.net): 实用的机器学习和数据分析工具包
