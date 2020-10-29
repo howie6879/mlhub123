@@ -154,7 +154,7 @@
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook): Python数据科学手册
 - [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course): 简单易学的TensorFlow教程
 - [机器学习实战](https://github.com/apachecn/MachineLearning): Machine Learning in Action（机器学习实战）
-- [简单粗暴TensorFlow](https://github.com/snowkylin/TensorFlow-cn): 本手册是一篇精简的TensorFlow入门指导
+- [简单粗暴 TensorFlow 2](https://tf.wiki): 一本简明的 TensorFlow 2 入门指导手册
 
 ### 实战项目
 
