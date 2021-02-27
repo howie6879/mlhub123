@@ -23,7 +23,10 @@
 <!-- /code_chunk_output -->
 
 # mlhub123
-机器学习网站导航以及资源，欢迎PR提供资源：
+
+![aHb1LO](https://raw.githubusercontent.com/howie6879/oss/master/images/aHb1LO.png)
+
+机器学习网站导航以及资源，欢迎**PR提供资源**：
  - 网站：[https://www.mlhub123.com/](https://www.mlhub123.com/)
  - 进微信群交流：备注mlhub进群 - [mlhub](https://ws1.sinaimg.cn/large/007i3XCUgy1fwgr8qhjz7j306506faag.jpg)
  - Telegram群组：[欢迎加入](https://t.me/joinchat/F6XKShFSdCUHuo5Rvoj4Jg)，资源多多~
@@ -75,12 +78,10 @@
 
 - [arXiv](https://arxiv.org): 康奈尔大学运营的学术预印本发布的平台
 - [Arxiv Sanity](http://www.arxiv-sanity.com/?from=www.mlhub123.com): 论文查询推荐
-- [GitXiv](http://www.gitxiv.com/?from=www.mlhub123.com): arXiv的成果开源实现平台
 - [iData](https://www.cn-ki.net/): iData-知识检索
 - [ModelDepot](https://modeldepot.io/search)：文献模型源代码搜索下载
 - [Papers with Code](https://paperswithcode.com/?from=www.mlhub123.com): 将论文与开源代码实现结合
 - [SCI-HUB](https://sci-hub.tw/): 找论文必备
-- [猫咪论文](https://lunwen.im/?from=www.mlhub123.com): 简单自由的论文下载平台
 
 ### 比赛实践
 
@@ -146,6 +147,7 @@
 ### 开源书籍
 
 - [deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese): 深度学习中文版
+- [动手学深度学习](https://github.com/d2l-ai/d2l-zh): 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学
 - [deep_learning_cookbook](https://github.com/DOsinga/deep_learning_cookbook): 深度学习手册
 - [hands_on_Ml_with_Sklearn_and_TF](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF): Sklearn与TensorFlow机器学习实用指南
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/): 一份指南，教你如何构建具有可解释性的黑盒模型
