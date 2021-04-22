@@ -81,7 +81,7 @@
 - [iData](https://www.cn-ki.net/): iData-知识检索
 - [ModelDepot](https://modeldepot.io/search)：文献模型源代码搜索下载
 - [Papers with Code](https://paperswithcode.com/?from=www.mlhub123.com): 将论文与开源代码实现结合
-- [SCI-HUB](https://sci-hub.tw/): 找论文必备
+- [SCI-HUB](https://sci-hub.se/): 找论文必备
 
 ### 比赛实践
 
