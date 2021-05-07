@@ -82,6 +82,7 @@
 - [ModelDepot](https://modeldepot.io/search)：文献模型源代码搜索下载
 - [Papers with Code](https://paperswithcode.com/?from=www.mlhub123.com): 将论文与开源代码实现结合
 - [SCI-HUB](https://sci-hub.se/): 找论文必备
+- [NLP Index](https://index.quantumstat.com/): 实用的NLP索引工具
 
 ### 比赛实践
 
