@@ -46,6 +46,7 @@
 - [数据分析网](https://www.afenxi.com?from=www.mlhub123.com): 数据分析网 - 大数据学习交流第一平台
 - [知乎主题](https://www.zhihu.com/topic/19559450/hot?from=www.mlhub123.com): 知乎机器学习热门主题
 - [专知](http://www.zhuanzhi.ai)：AI知识分发服务平台
+- [aminer](https://www.aminer.cn/research_report/articlelist)：科技资讯
 
 ### 社区交流
 
