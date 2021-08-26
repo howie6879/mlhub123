@@ -67,7 +67,7 @@
 - [Google AI Blog](https://ai.googleblog.com/): 谷歌AI博客
 - [handong1587](https://handong1587.github.io/): 深度学习各个方向资源汇总，及各大顶级会议/期刊资源
 - [Machine Learning Mastery](https://machinelearningmastery.com/blog?from=www.mlhub123.com): 帮助开发人员使用机器学习的知识解决复杂的问题
-- [paralleldots](https://blog.paralleldots.com/)：一个提供随时可用的一流AI解决方案的博客
+- [paralleldots](https://blog.paralleldots.com/): 一个提供随时可用的一流AI解决方案的博客
 - [Stats and Bots - Medium](https://blog.statsbot.co/?from=www.mlhub123.com): 机器学习应用程序和代码的实用指南
 - [tornadomeet的博客](https://www.cnblogs.com/tornadomeet/archive/2012/06/24/2560261.html?from=www.mlhub123.com): 很详细的ML&DL学习博客
 - [wildml](http://www.wildml.com/)：Artificial Intelligence, Deep Learning, and NLP
@@ -77,13 +77,15 @@
 
 ### 资源检索
 
-- [arXiv](https://arxiv.org): 康奈尔大学运营的学术预印本发布的平台
+- [arXiv](https://arxiv.org/?from=www.mlhub123.com): 康奈尔大学运营的学术预印本发布的平台
 - [Arxiv Sanity](http://www.arxiv-sanity.com/?from=www.mlhub123.com): 论文查询推荐
-- [iData](https://www.cn-ki.net/): iData-知识检索
-- [ModelDepot](https://modeldepot.io/search)：文献模型源代码搜索下载
+- [bifrost](https://datasets.bifrost.ai/?from=www.mlhub123.com): 提供人物、自动驾驶汽车、零售、无人机等六大类别数据集检索
+- [connected papers](https://www.connectedpapers.com/?from=www.mlhub123.com): 用可视化的形式发现&浏览论文
+- [iData](https://www.cn-ki.net/?from=www.mlhub123.com): iData-知识检索
+- [ModelDepot](https://modeldepot.io/search?from=www.mlhub123.com): 文献模型源代码搜索下载
 - [Papers with Code](https://paperswithcode.com/?from=www.mlhub123.com): 将论文与开源代码实现结合
-- [SCI-HUB](https://sci-hub.se/): 找论文必备
-- [NLP Index](https://index.quantumstat.com/): 实用的NLP索引工具
+- [SCI-HUB](https://sci-hub.se/?from=www.mlhub123.com): 找论文必备
+- [NLP Index](https://index.quantumstat.com/?from=www.mlhub123.com): 实用的NLP索引工具
 
 ### 比赛实践
 
