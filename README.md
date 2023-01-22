@@ -17,8 +17,8 @@
     - [方法论](#方法论)
   - [文档](#文档)
     - [Python](#python)
-    - [C & C++](#c-c)
-    - [Java & Scala](#java-scala)
+    - [C \& C++](#c--c)
+    - [Java \& Scala](#java--scala)
 
 <!-- /code_chunk_output -->
 
@@ -170,6 +170,7 @@
 ### 方法论
 
 - [face_recognition](https://space.bilibili.com/344849038/dynamic): 学习观
+- [tuning_playbook](https://github.com/google-research/tuning_playbook): 聚焦超参数调整的深度学习调优手册
 
 ## 文档
 
