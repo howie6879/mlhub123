@@ -125,6 +125,7 @@
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions?from=www.mlhub123.com)：深度学习500问
 - [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books?from=www.mlhub123.com): 吴恩达老师的深度学习课程笔记及资源
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap?from=www.mlhub123.com): 深度学习论文阅读路线图
+- [FunRec](https://datawhalechina.github.io/fun-rec/#/): 推荐算法基础+实战+面经
 - [funNLP](https://github.com/fighting41love/funNLP?from=www.mlhub123.com)：中文语料库资源收集项目
 - [Getting Started in Computer Vision Research](https://sites.google.com/site/mostafasibrahim/research/articles/how-to-start?from=www.mlhub123.com)：计算机视觉研究入门全指南
 - [lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm?from=www.mlhub123.com): 《统计学习方法》算法python实现
@@ -134,6 +135,7 @@
 - [ml_cheatsheet](https://github.com/remicnrd/ml_cheatsheet?from=www.mlhub123.com)：机器学习算法速查手册
 - [ml_tutorials](https://github.com/MorvanZhou/tutorials?from=www.mlhub123.com): 机器学习相关教程
 - [NLP-progress](https://github.com/sebastianruder/NLP-progress?from=www.mlhub123.com)：跟踪NLP各项技术的state-of-the-art进展
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love): 阅读、讨论和学习计算机科学学术论文的社区
 - [100-Days-Of-ML-Code 英文版](https://github.com/Avik-Jain/100-Days-Of-ML-Code?from=www.mlhub123.com)：100 Days of Machine Learning Coding as proposed by Siraj Raval
 - [100-Days-Of-ML-Code 中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code?from=www.mlhub123.com)：100-Days-Of-ML-Code 中文版
 - [周志华 - 机器学习](https://github.com/Vay-keen/Machine-learning-learning-notes?from=www.mlhub123.com): 周志华《机器学习》笔记
