@@ -49,7 +49,7 @@
 
 ### 工具服务
 
-- [chatgpt](https://openai.com/blog/chatgpt/?from=www.mlhub123.com): OpenAI开发的人工智能聊天机器人程序
+- [chatgpt](https://ai.com/?from=www.mlhub123.com): OpenAI开发的人工智能聊天机器人程序
 - [drawio](https://draw.io?from=www.mlhub123.com) 开源免费的绘图工具
 
 ### 社区交流
