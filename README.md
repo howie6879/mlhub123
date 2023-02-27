@@ -50,6 +50,9 @@
 ### 工具服务
 
 - [chatgpt](https://ai.com/?from=www.mlhub123.com): OpenAI开发的人工智能聊天机器人程序
+- [codeocean](https://codeocean.com/?from=www.mlhub123.com): 可重现性代码共享平台
+- [colab](https://colab.research.google.com/?from=www.mlhub123.com): 免费使用GPU的在线工作平台
+- [ECharts](https://echarts.apache.org/?from=www.mlhub123.com): 使用JavaScript实现的开源可视化库
 - [drawio](https://draw.io?from=www.mlhub123.com) 开源免费的绘图工具
 
 ### 社区交流
@@ -75,7 +78,6 @@
 - [爱可可-爱生活](https://weibo.com/fly51fly?topnav=1&wvr=6&topsug=1?from=www.mlhub123.com): 知名互联网资讯博主
 - [超智能体](https://zhuanlan.zhihu.com/YJango?from=www.mlhub123.com): 分享最通俗易懂的深度学习教程
 - [人工智能笔记](https://zhuanlan.zhihu.com/ainote?from=www.mlhub123.com): 人工智能从入门到AI统治世界
-- [系统学习机器学习](https://www.zhihu.com/question/266291909?from=www.mlhub123.com): 系统学习机器学习
 
 ### 资源检索
 
@@ -83,10 +85,13 @@
 - [Arxiv Sanity](http://www.arxiv-sanity.com/?from=www.mlhub123.com): 论文查询推荐
 - [bifrost](https://datasets.bifrost.ai/?from=www.mlhub123.com): 提供人物、自动驾驶汽车、零售、无人机等六大类别数据集检索
 - [connected papers](https://www.connectedpapers.com/?from=www.mlhub123.com): 用可视化的形式发现&浏览论文
+- [Hugging Face](https://huggingface.co/?from=www.mlhub123.com): 机器学习界的github，提供预训练模型和数据集等资源
 - [iData](https://www.cn-ki.net/?from=www.mlhub123.com): iData-知识检索
 - [NLP Index](https://index.quantumstat.com/?from=www.mlhub123.com): 实用的NLP索引工具
 - [Papers with Code](https://paperswithcode.com/?from=www.mlhub123.com): 将论文与开源代码实现结合
+- [phind](https://phind.com/?from=www.mlhub123.com): The AI search engine for developers
 - [SCI-HUB](https://sci-hub.ru/?from=www.mlhub123.com): 找论文必备
+- [Semantic Scholar](https://www.semanticscholar.org/?from=www.mlhub123.com): 致力于解决信息超载的学术文献搜索引擎
 
 ### 比赛实践
 
@@ -123,7 +128,7 @@
 - [吴恩达](https://study.163.com/course/introduction/1210076550.htm?from=www.mlhub123.com): 机器学习课程
 - [吴恩达](https://mooc.study.163.com/smartSpec/detail/1001319001.htm?from=www.mlhub123.com): 深度学习课程
 - [徐亦达](https://github.com/roboticcam/machine-learning-notes?from=www.mlhub123.com)): 徐亦达老师机器学习课程
-- [张子豪（同济](https://github.com/TommyZihao/zihao_course/?from=www.mlhub123.com): 同济子豪兄的公开课：机器学习+计算机视觉+论文精读
+- [张子豪（同济）](https://github.com/TommyZihao/zihao_course/?from=www.mlhub123.com): 同济子豪兄的公开课：机器学习+计算机视觉+论文精读
 
 ### 资源收集
 
@@ -134,8 +139,8 @@
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions?from=www.mlhub123.com)：深度学习500问
 - [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books?from=www.mlhub123.com): 吴恩达老师的深度学习课程笔记及资源
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap?from=www.mlhub123.com): 深度学习论文阅读路线图
-- [FunRec](https://datawhalechina.github.io/fun-rec/#/?from=www.mlhub123.com): 推荐算法基础+实战+面经
 - [funNLP](https://github.com/fighting41love/funNLP?from=www.mlhub123.com)：中文语料库资源收集项目
+- [FunRec](https://datawhalechina.github.io/fun-rec/#/?from=www.mlhub123.com): 推荐算法基础+实战+面经
 - [Getting Started in Computer Vision Research](https://sites.google.com/site/mostafasibrahim/research/articles/how-to-start?from=www.mlhub123.com)：计算机视觉研究入门全指南
 - [lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm?from=www.mlhub123.com): 《统计学习方法》算法python实现
 - [Machine Learning、Deep Learning](https://github.com/ty4z2008/Qix/blob/master/dl.md?from=www.mlhub123.com): ML&DL资料
@@ -147,6 +152,7 @@
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love?from=www.mlhub123.com): 阅读、讨论和学习计算机科学学术论文的社区
 - [100-Days-Of-ML-Code 英文版](https://github.com/Avik-Jain/100-Days-Of-ML-Code?from=www.mlhub123.com)：100 Days of Machine Learning Coding as proposed by Siraj Raval
 - [100-Days-Of-ML-Code 中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code?from=www.mlhub123.com)：100-Days-Of-ML-Code 中文版
+- [系统学习机器学习](https://www.zhihu.com/question/266291909?from=www.mlhub123.com): 系统学习机器学习
 - [周志华 - 机器学习](https://github.com/Vay-keen/Machine-learning-learning-notes?from=www.mlhub123.com): 周志华《机器学习》笔记
 
 ### 开源书籍
