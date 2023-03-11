@@ -37,8 +37,10 @@
 
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/?from=www.mlhub123.com): 为数据科学专业人员提供基于社区的知识门户
 - [Distill](https://distill.pub/?from=www.mlhub123.com): 展示机器学习的最新文章
+- [excalidraw](https://excalidraw.com/?from=www.mlhub123.com): 绘图软件
 - [Google News](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREZvZVdoZkVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen?from=www.mlhub123.com): Google News Machine learning
 - [kdnuggets](https://www.kdnuggets.com/?from=www.mlhub123.com): Machine Learning, Data Science, Big Data, Analytics, AI
+- [Khroma](http://khroma.co/?from=www.mlhub123.com): 人工智能配色网站
 - [MIT News](http://news.mit.edu/topic/machine-learning?from=www.mlhub123.com): Machine learning | MIT News
 - [机器之心](https://www.jiqizhixin.com?from=www.mlhub123.com): 机器之心 | 全球人工智能信息服务
 - [雷锋网](https://www.leiphone.com/?from=www.mlhub123.com): 雷锋网 | 读懂智能，未来
@@ -87,6 +89,7 @@
 - [connected papers](https://www.connectedpapers.com/?from=www.mlhub123.com): 用可视化的形式发现&浏览论文
 - [Hugging Face](https://huggingface.co/?from=www.mlhub123.com): 机器学习界的github，提供预训练模型和数据集等资源
 - [iData](https://www.cn-ki.net/?from=www.mlhub123.com): iData-知识检索
+- [lexica](https://lexica.art/?from=www.mlhub123.com): 超过10M + Stable Diffusion 图像和 Prompts
 - [NLP Index](https://index.quantumstat.com/?from=www.mlhub123.com): 实用的NLP索引工具
 - [Papers with Code](https://paperswithcode.com/?from=www.mlhub123.com): 将论文与开源代码实现结合
 - [phind](https://phind.com/?from=www.mlhub123.com): The AI search engine for developers
@@ -120,14 +123,14 @@
 - [YSDA nlp_course](https://github.com/yandexdataschool/nlp_course?from=www.mlhub123.com): YSDA course in Natural Language Processing
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw?from=www.mlhub123.com): YouTube | 数学基础频道
 - [3Blue1Brown 中文](http://space.bilibili.com/88461692/#/?from=www.mlhub123.com): Bilibili | 数学基础频道
-- [谷歌：机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/?from=www.mlhub123.com)): Google制作的节奏紧凑、内容实用的机器学习简介课程
+- [谷歌：机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/?from=www.mlhub123.com): Google制作的节奏紧凑、内容实用的机器学习简介课程
 - [李宏毅](https://speech.ee.ntu.edu.tw/~hylee/index.php?from=www.mlhub123.com): 李宏毅深度学习课程
-- [林轩田](https://www.bilibili.com/video/av12469267?from=www.mlhub123.com)): 机器学习技法
-- [邱锡鹏（复旦大学）](https://github.com/nndl/nndl.github.io?from=www.mlhub123.com)): 神经网络与深度学习
+- [林轩田](https://www.bilibili.com/video/av12469267?from=www.mlhub123.com): 机器学习技法
+- [邱锡鹏（复旦大学）](https://github.com/nndl/nndl.github.io?from=www.mlhub123.com): 神经网络与深度学习
 - [人工智能公开课合集](https://study.163.com/series/1001461001.htm?from=www.mlhub123.com)人工智能国内外顶尖公开课系列
 - [吴恩达](https://study.163.com/course/introduction/1210076550.htm?from=www.mlhub123.com): 机器学习课程
 - [吴恩达](https://mooc.study.163.com/smartSpec/detail/1001319001.htm?from=www.mlhub123.com): 深度学习课程
-- [徐亦达](https://github.com/roboticcam/machine-learning-notes?from=www.mlhub123.com)): 徐亦达老师机器学习课程
+- [徐亦达](https://github.com/roboticcam/machine-learning-notes?from=www.mlhub123.com): 徐亦达老师机器学习课程
 - [张子豪（同济）](https://github.com/TommyZihao/zihao_course/?from=www.mlhub123.com): 同济子豪兄的公开课：机器学习+计算机视觉+论文精读
 
 ### 资源收集
@@ -149,6 +152,8 @@
 - [ml_cheatsheet](https://github.com/remicnrd/ml_cheatsheet?from=www.mlhub123.com)：机器学习算法速查手册
 - [ml_tutorials](https://github.com/MorvanZhou/tutorials?from=www.mlhub123.com): 机器学习相关教程
 - [NLP-progress](https://github.com/sebastianruder/NLP-progress?from=www.mlhub123.com)：跟踪NLP各项技术的state-of-the-art进展
+- [paper-qa](https://github.com/whitead/paper-qa?from=www.mlhub123.com): 用GPT-3来解读论文的开源项目
+- [paper-reading](https://github.com/mli/paper-reading?from=www.mlhub123.com): 深度学习经典、新论文逐段精读
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love?from=www.mlhub123.com): 阅读、讨论和学习计算机科学学术论文的社区
 - [100-Days-Of-ML-Code 英文版](https://github.com/Avik-Jain/100-Days-Of-ML-Code?from=www.mlhub123.com)：100 Days of Machine Learning Coding as proposed by Siraj Raval
 - [100-Days-Of-ML-Code 中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code?from=www.mlhub123.com)：100-Days-Of-ML-Code 中文版
