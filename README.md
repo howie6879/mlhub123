@@ -37,10 +37,8 @@
 
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/?from=www.mlhub123.com): 为数据科学专业人员提供基于社区的知识门户
 - [Distill](https://distill.pub/?from=www.mlhub123.com): 展示机器学习的最新文章
-- [excalidraw](https://excalidraw.com/?from=www.mlhub123.com): 绘图软件
 - [Google News](https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNREZvZVdoZkVnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US%3Aen?from=www.mlhub123.com): Google News Machine learning
 - [kdnuggets](https://www.kdnuggets.com/?from=www.mlhub123.com): Machine Learning, Data Science, Big Data, Analytics, AI
-- [Khroma](http://khroma.co/?from=www.mlhub123.com): 人工智能配色网站
 - [MIT News](http://news.mit.edu/topic/machine-learning?from=www.mlhub123.com): Machine learning | MIT News
 - [机器之心](https://www.jiqizhixin.com?from=www.mlhub123.com): 机器之心 | 全球人工智能信息服务
 - [雷锋网](https://www.leiphone.com/?from=www.mlhub123.com): 雷锋网 | 读懂智能，未来
@@ -55,7 +53,9 @@
 - [codeocean](https://codeocean.com/?from=www.mlhub123.com): 可重现性代码共享平台
 - [colab](https://colab.research.google.com/?from=www.mlhub123.com): 免费使用GPU的在线工作平台
 - [ECharts](https://echarts.apache.org/?from=www.mlhub123.com): 使用JavaScript实现的开源可视化库
+- [excalidraw](https://excalidraw.com/?from=www.mlhub123.com): 绘图软件
 - [drawio](https://draw.io?from=www.mlhub123.com) 开源免费的绘图工具
+- [Khroma](http://khroma.co/?from=www.mlhub123.com): 人工智能配色网站
 
 ### 社区交流
 
