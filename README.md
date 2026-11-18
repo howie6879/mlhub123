@@ -56,6 +56,7 @@
 - [excalidraw](https://excalidraw.com/?from=www.mlhub123.com): 绘图软件
 - [drawio](https://draw.io?from=www.mlhub123.com) 开源免费的绘图工具
 - [Khroma](http://khroma.co/?from=www.mlhub123.com): 人工智能配色网站
+- [MoeRouter](https://moerouter.com/): 面向开发者的多模型 API 网关，可切换模型和可用线路，按实际用量以人民币计费。
 
 ### 社区交流
 
